@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masonjmaier23
-- 👀 I’m interested in ... soccer, golf, and sportsbooks lines and spreads
+- 👀 I’m interested in ... soccer, golf, and sports betting
 - 🌱 I’m currently learning ... AWS
 - 📫 How to reach me ... twitter: @mmaier23
 
