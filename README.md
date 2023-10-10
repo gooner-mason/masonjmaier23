@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masonjmaier23
-- 👀 I’m interested in ... soccer, golf, and sports betting
-- 🌱 I’m currently learning ... NodeJS and React
+- 👀 I’m interested in ... soccer and golf
+- 🌱 I’m currently learning ... aws
 - 📫 How to reach me ... twitter: @mmaier23
 
 <!---
